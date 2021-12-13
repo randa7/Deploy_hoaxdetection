@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "tf_node_tokenizer": "^1.0.3"
+  }
+}
